@@ -1,2 +1,2 @@
-# expense-reports
-Project for roommates that share expenses
+# We Spending
+Project for buddies to share expenses and manage payments
